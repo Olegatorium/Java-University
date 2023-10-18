@@ -1,2 +1,1 @@
-# Test-for-University
-Test for University
+Just tasks from my University
